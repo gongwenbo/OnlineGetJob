@@ -133,7 +133,7 @@ void FindWordk(){
 		int inde=N;
 		while(inde--){
 			char buf_c;
-			std:cin>>buf_c;
+			std::cin>>buf_c;
 			bords_buf.emplace_back(buf_c);
 			
 			

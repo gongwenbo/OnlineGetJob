@@ -23,10 +23,13 @@ CMakeFiles/work.dir/main.cpp.o: ../game_currenty.hpp
 CMakeFiles/work.dir/main.cpp.o: ../gather.hpp
 CMakeFiles/work.dir/main.cpp.o: ../hourse_ranc.hpp
 CMakeFiles/work.dir/main.cpp.o: ../index_char.hpp
+CMakeFiles/work.dir/main.cpp.o: ../le_xing.hpp
 CMakeFiles/work.dir/main.cpp.o: ../main.cpp
 CMakeFiles/work.dir/main.cpp.o: ../mei_tuan.hpp
+CMakeFiles/work.dir/main.cpp.o: ../meituan.hpp
 CMakeFiles/work.dir/main.cpp.o: ../numric_rever.hpp
 CMakeFiles/work.dir/main.cpp.o: ../play_card.hpp
+CMakeFiles/work.dir/main.cpp.o: ../quick_sort.hpp
 CMakeFiles/work.dir/main.cpp.o: ../qvnaer.hpp
 CMakeFiles/work.dir/main.cpp.o: ../run_home.hpp
 CMakeFiles/work.dir/main.cpp.o: ../souhu.hpp
@@ -37,4 +40,5 @@ CMakeFiles/work.dir/main.cpp.o: ../twin.hpp
 CMakeFiles/work.dir/main.cpp.o: ../world_merge.hpp
 CMakeFiles/work.dir/main.cpp.o: ../written.hpp
 CMakeFiles/work.dir/main.cpp.o: ../zhaoshang.hpp
+CMakeFiles/work.dir/main.cpp.o: ../zoon.hpp
 

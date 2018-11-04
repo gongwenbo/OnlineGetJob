@@ -33,6 +33,10 @@
 #include "qvnaer.hpp"
 #include "360.hpp"
 #include "mei_tuan.hpp"
+#include "zoon.hpp"
+#include "quick_sort.hpp"
+#include "meituan.hpp"
+#include "le_xing.hpp"
 int main(void){
 	
 	//TestClock();	
@@ -82,7 +86,13 @@ int main(void){
 	//FindMaxSubT();
 	//Direc();
 	//IndexStr();
-	FindWordk();
+	//FindWordk();
+	//Zoom();
+	//test_Sort();
+	//Meal();
+	//CheckTree();
+	//TestB();
+	TestMa();
 }
 
 
