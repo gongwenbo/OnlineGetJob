@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/design_pattren.dir/main.cpp.o  -o design_pattren -rdynamic src/libsrc_lib.a 
+/usr/bin/c++    -rdynamic CMakeFiles/design_pattren.dir/main.cpp.o  -o design_pattren src/libsrc_lib.a 

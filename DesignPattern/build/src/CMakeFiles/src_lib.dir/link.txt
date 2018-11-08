@@ -1,2 +1,2 @@
-/usr/bin/ar qc libsrc_lib.a  CMakeFiles/src_lib.dir/combine.cpp.o CMakeFiles/src_lib.dir/facada.cpp.o CMakeFiles/src_lib.dir/abs_factory.cpp.o CMakeFiles/src_lib.dir/single.cpp.o CMakeFiles/src_lib.dir/builder.cpp.o
+/usr/bin/ar qc libsrc_lib.a  CMakeFiles/src_lib.dir/abs_factory.cpp.o CMakeFiles/src_lib.dir/builder.cpp.o CMakeFiles/src_lib.dir/combine.cpp.o CMakeFiles/src_lib.dir/command.cpp.o CMakeFiles/src_lib.dir/facada.cpp.o CMakeFiles/src_lib.dir/single.cpp.o CMakeFiles/src_lib.dir/template.cpp.o
 /usr/bin/ranlib libsrc_lib.a

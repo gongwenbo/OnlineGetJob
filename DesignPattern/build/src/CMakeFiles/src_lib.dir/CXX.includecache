@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -44,37 +44,11 @@ math.h
 bits/stdc++.h
 -
 
-/home/OnlineGetJob/DesignPattern/src/abs_factory.cpp
-abs_factory.h
-/home/OnlineGetJob/DesignPattern/src/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/src/command.cpp
+command.h
+/shared/OnlineGetJob/DesignPattern/src/command.h
 
-/home/OnlineGetJob/DesignPattern/src/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/src/command.h
 common.h
-/home/OnlineGetJob/DesignPattern/src/common.h
-
-/home/OnlineGetJob/DesignPattern/src/builder.cpp
-builder.h
-/home/OnlineGetJob/DesignPattern/src/builder.h
-
-/home/OnlineGetJob/DesignPattern/src/builder.h
-common.h
-/home/OnlineGetJob/DesignPattern/src/common.h
-
-/home/OnlineGetJob/DesignPattern/src/combine.cpp
-combine.h
-/home/OnlineGetJob/DesignPattern/src/combine.h
-
-/home/OnlineGetJob/DesignPattern/src/combine.h
-common.h
-/home/OnlineGetJob/DesignPattern/src/common.h
-
-/home/OnlineGetJob/DesignPattern/src/facada.cpp
-
-/home/OnlineGetJob/DesignPattern/src/single.cpp
-single.h
-/home/OnlineGetJob/DesignPattern/src/single.h
-
-/home/OnlineGetJob/DesignPattern/src/single.h
-common.h
-/home/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 

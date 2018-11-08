@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -56,6 +56,10 @@ common.h
 common.h
 .././src/common.h
 
+.././src/command.h
+common.h
+.././src/common.h
+
 .././src/facada.h
 common.h
 .././src/common.h
@@ -64,17 +68,25 @@ common.h
 common.h
 .././src/common.h
 
-/home/OnlineGetJob/DesignPattern/main.cpp
+.././src/template.h
 common.h
-/home/OnlineGetJob/DesignPattern/common.h
+.././src/common.h
+
+/shared/OnlineGetJob/DesignPattern/main.cpp
+common.h
+/shared/OnlineGetJob/DesignPattern/common.h
 single.h
-/home/OnlineGetJob/DesignPattern/single.h
+/shared/OnlineGetJob/DesignPattern/single.h
 abs_factory.h
-/home/OnlineGetJob/DesignPattern/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/abs_factory.h
 builder.h
-/home/OnlineGetJob/DesignPattern/builder.h
+/shared/OnlineGetJob/DesignPattern/builder.h
 combine.h
-/home/OnlineGetJob/DesignPattern/combine.h
+/shared/OnlineGetJob/DesignPattern/combine.h
 facada.h
-/home/OnlineGetJob/DesignPattern/facada.h
+/shared/OnlineGetJob/DesignPattern/facada.h
+template.h
+/shared/OnlineGetJob/DesignPattern/template.h
+command.h
+/shared/OnlineGetJob/DesignPattern/command.h
 
