@@ -6,6 +6,8 @@
 #include "facada.h"
 #include "template.h"
 #include "command.h"
+#include "observer.h"
+#include "media.h"
 int main(int argc,char** argv){
 
 	//TestSinglePattern();
@@ -14,6 +16,8 @@ int main(int argc,char** argv){
 	//TestCombine();
 	//TestFacada();
 	//TestTemplate();
-	TestCommaPatren();
+	//TestCommaPatren();
+    //TestObsever();
+    TestMedia();
 }
 
