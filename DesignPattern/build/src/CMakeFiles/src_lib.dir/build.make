@@ -201,9 +201,33 @@ src/CMakeFiles/src_lib.dir/media.cpp.o.provides: src/CMakeFiles/src_lib.dir/medi
 src/CMakeFiles/src_lib.dir/media.cpp.o.provides.build: src/CMakeFiles/src_lib.dir/media.cpp.o
 
 
+src/CMakeFiles/src_lib.dir/status_m.cpp.o: src/CMakeFiles/src_lib.dir/flags.make
+src/CMakeFiles/src_lib.dir/status_m.cpp.o: ../src/status_m.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/src_lib.dir/status_m.cpp.o"
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/src_lib.dir/status_m.cpp.o -c /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp
+
+src/CMakeFiles/src_lib.dir/status_m.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/src_lib.dir/status_m.cpp.i"
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp > CMakeFiles/src_lib.dir/status_m.cpp.i
+
+src/CMakeFiles/src_lib.dir/status_m.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/src_lib.dir/status_m.cpp.s"
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp -o CMakeFiles/src_lib.dir/status_m.cpp.s
+
+src/CMakeFiles/src_lib.dir/status_m.cpp.o.requires:
+
+.PHONY : src/CMakeFiles/src_lib.dir/status_m.cpp.o.requires
+
+src/CMakeFiles/src_lib.dir/status_m.cpp.o.provides: src/CMakeFiles/src_lib.dir/status_m.cpp.o.requires
+	$(MAKE) -f src/CMakeFiles/src_lib.dir/build.make src/CMakeFiles/src_lib.dir/status_m.cpp.o.provides.build
+.PHONY : src/CMakeFiles/src_lib.dir/status_m.cpp.o.provides
+
+src/CMakeFiles/src_lib.dir/status_m.cpp.o.provides.build: src/CMakeFiles/src_lib.dir/status_m.cpp.o
+
+
 src/CMakeFiles/src_lib.dir/combine.cpp.o: src/CMakeFiles/src_lib.dir/flags.make
 src/CMakeFiles/src_lib.dir/combine.cpp.o: ../src/combine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/src_lib.dir/combine.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/src_lib.dir/combine.cpp.o"
 	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/src_lib.dir/combine.cpp.o -c /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/combine.cpp
 
 src/CMakeFiles/src_lib.dir/combine.cpp.i: cmake_force
@@ -227,7 +251,7 @@ src/CMakeFiles/src_lib.dir/combine.cpp.o.provides.build: src/CMakeFiles/src_lib.
 
 src/CMakeFiles/src_lib.dir/observer.cpp.o: src/CMakeFiles/src_lib.dir/flags.make
 src/CMakeFiles/src_lib.dir/observer.cpp.o: ../src/observer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/src_lib.dir/observer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/src_lib.dir/observer.cpp.o"
 	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/src_lib.dir/observer.cpp.o -c /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/observer.cpp
 
 src/CMakeFiles/src_lib.dir/observer.cpp.i: cmake_force
@@ -257,6 +281,7 @@ src_lib_OBJECTS = \
 "CMakeFiles/src_lib.dir/builder.cpp.o" \
 "CMakeFiles/src_lib.dir/template.cpp.o" \
 "CMakeFiles/src_lib.dir/media.cpp.o" \
+"CMakeFiles/src_lib.dir/status_m.cpp.o" \
 "CMakeFiles/src_lib.dir/combine.cpp.o" \
 "CMakeFiles/src_lib.dir/observer.cpp.o"
 
@@ -269,11 +294,12 @@ src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/single.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/builder.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/template.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/media.cpp.o
+src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/status_m.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/combine.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/observer.cpp.o
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/build.make
 src/libsrc_lib.a: src/CMakeFiles/src_lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library libsrc_lib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library libsrc_lib.a"
 	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && $(CMAKE_COMMAND) -P CMakeFiles/src_lib.dir/cmake_clean_target.cmake
 	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/src_lib.dir/link.txt --verbose=$(VERBOSE)
 
@@ -288,6 +314,7 @@ src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/single.cpp.o.req
 src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/builder.cpp.o.requires
 src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/template.cpp.o.requires
 src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/media.cpp.o.requires
+src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/status_m.cpp.o.requires
 src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/combine.cpp.o.requires
 src/CMakeFiles/src_lib.dir/requires: src/CMakeFiles/src_lib.dir/observer.cpp.o.requires
 

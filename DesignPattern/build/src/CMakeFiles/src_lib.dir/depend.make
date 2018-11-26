@@ -29,6 +29,10 @@ src/CMakeFiles/src_lib.dir/single.cpp.o: .././inc/common.h
 src/CMakeFiles/src_lib.dir/single.cpp.o: ../src/single.cpp
 src/CMakeFiles/src_lib.dir/single.cpp.o: ../src/single.h
 
+src/CMakeFiles/src_lib.dir/status_m.cpp.o: .././inc/common.h
+src/CMakeFiles/src_lib.dir/status_m.cpp.o: ../src/status_m.cpp
+src/CMakeFiles/src_lib.dir/status_m.cpp.o: ../src/status_m.h
+
 src/CMakeFiles/src_lib.dir/template.cpp.o: .././inc/common.h
 src/CMakeFiles/src_lib.dir/template.cpp.o: ../src/template.cpp
 src/CMakeFiles/src_lib.dir/template.cpp.o: ../src/template.h

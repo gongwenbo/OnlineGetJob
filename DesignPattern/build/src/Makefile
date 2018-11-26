@@ -314,6 +314,33 @@ single.cpp.s:
 	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build && $(MAKE) -f src/CMakeFiles/src_lib.dir/build.make src/CMakeFiles/src_lib.dir/single.cpp.s
 .PHONY : single.cpp.s
 
+status_m.o: status_m.cpp.o
+
+.PHONY : status_m.o
+
+# target to build an object file
+status_m.cpp.o:
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build && $(MAKE) -f src/CMakeFiles/src_lib.dir/build.make src/CMakeFiles/src_lib.dir/status_m.cpp.o
+.PHONY : status_m.cpp.o
+
+status_m.i: status_m.cpp.i
+
+.PHONY : status_m.i
+
+# target to preprocess a source file
+status_m.cpp.i:
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build && $(MAKE) -f src/CMakeFiles/src_lib.dir/build.make src/CMakeFiles/src_lib.dir/status_m.cpp.i
+.PHONY : status_m.cpp.i
+
+status_m.s: status_m.cpp.s
+
+.PHONY : status_m.s
+
+# target to generate assembly for a file
+status_m.cpp.s:
+	cd /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/build && $(MAKE) -f src/CMakeFiles/src_lib.dir/build.make src/CMakeFiles/src_lib.dir/status_m.cpp.s
+.PHONY : status_m.cpp.s
+
 template.o: template.cpp.o
 
 .PHONY : template.o
@@ -371,6 +398,9 @@ help:
 	@echo "... single.o"
 	@echo "... single.i"
 	@echo "... single.s"
+	@echo "... status_m.o"
+	@echo "... status_m.i"
+	@echo "... status_m.s"
 	@echo "... template.o"
 	@echo "... template.i"
 	@echo "... template.s"

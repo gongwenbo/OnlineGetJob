@@ -11,5 +11,6 @@ CMakeFiles/design_pattren.dir/main.cpp.o
  .././src/media.h
  .././src/observer.h
  .././src/single.h
+ .././src/status_m.h
  .././src/template.h
  /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/main.cpp

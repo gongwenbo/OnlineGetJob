@@ -10,6 +10,7 @@ CMakeFiles/design_pattren.dir/main.cpp.o: .././src/facada.h
 CMakeFiles/design_pattren.dir/main.cpp.o: .././src/media.h
 CMakeFiles/design_pattren.dir/main.cpp.o: .././src/observer.h
 CMakeFiles/design_pattren.dir/main.cpp.o: .././src/single.h
+CMakeFiles/design_pattren.dir/main.cpp.o: .././src/status_m.h
 CMakeFiles/design_pattren.dir/main.cpp.o: .././src/template.h
 CMakeFiles/design_pattren.dir/main.cpp.o: ../main.cpp
 

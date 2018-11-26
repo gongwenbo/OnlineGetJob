@@ -8,6 +8,7 @@
 #include "command.h"
 #include "observer.h"
 #include "media.h"
+#include "status_m.h"
 int main(int argc,char** argv){
 
 	//TestSinglePattern();
@@ -18,6 +19,7 @@ int main(int argc,char** argv){
 	//TestTemplate();
 	//TestCommaPatren();
     //TestObsever();
-    TestMedia();
+    //TestMedia();
+    TestStatus();
 }
 

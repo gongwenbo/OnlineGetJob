@@ -100,6 +100,14 @@ single.h
 common.h
 /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
 
+/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp
+status_m.h
+/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.h
+
+/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.h
+common.h
+/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+
 /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.cpp
 template.h
 /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.h

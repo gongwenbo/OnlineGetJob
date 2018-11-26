@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/src_lib.dir/builder.cpp.o"
   "CMakeFiles/src_lib.dir/template.cpp.o"
   "CMakeFiles/src_lib.dir/media.cpp.o"
+  "CMakeFiles/src_lib.dir/status_m.cpp.o"
   "CMakeFiles/src_lib.dir/combine.cpp.o"
   "CMakeFiles/src_lib.dir/observer.cpp.o"
   "libsrc_lib.pdb"

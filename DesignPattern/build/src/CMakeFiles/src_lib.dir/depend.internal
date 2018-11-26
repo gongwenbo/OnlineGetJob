@@ -29,6 +29,10 @@ src/CMakeFiles/src_lib.dir/single.cpp.o
  .././inc/common.h
  /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/single.cpp
  /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/single.h
+src/CMakeFiles/src_lib.dir/status_m.cpp.o
+ .././inc/common.h
+ /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp
+ /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.h
 src/CMakeFiles/src_lib.dir/template.cpp.o
  .././inc/common.h
  /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.cpp

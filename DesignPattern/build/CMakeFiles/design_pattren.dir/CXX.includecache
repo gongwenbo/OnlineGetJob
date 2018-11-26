@@ -76,6 +76,10 @@ common.h
 common.h
 .././src/common.h
 
+.././src/status_m.h
+common.h
+.././src/common.h
+
 .././src/template.h
 common.h
 .././src/common.h
@@ -101,4 +105,6 @@ observer.h
 /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/observer.h
 media.h
 /home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/media.h
+status_m.h
+/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/status_m.h
 
