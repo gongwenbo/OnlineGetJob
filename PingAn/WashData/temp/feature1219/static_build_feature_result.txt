@@ -1,0 +1,2 @@
+total time: 1.80468297005s, num_every_sec: 22.7186717448, num_every_min: 1363.12030469
+accuracy_rate = 1.0

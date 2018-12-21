@@ -1,0 +1,21 @@
+清洗数据步骤：
+一、提取特征
+1、tar -xf getfeature.tar.gz && cd getfeature
+2、test_cfg修改ip、端口
+3、执行get_data_label_list.py 脚本生成需要清洗的数据文件列表
+4、运行concurrency_build_feature_by_image脚本提取特征，提取成功的特征会存储到和图像同一文件夹目录下,以后缀.feature命名
+
+二、根据读取提取出来的特征，同一文件夹下获取两两比对清洗数据
+1、unzip wash_data.zip  && cd wash_data
+2、similar_cal.py 该脚本,计算每个文件夹下的图片，两两相似度；注意到similar_cal.py 该文件的idx_start 和 idx ,可以根据实际需要手动开启多个进程，加快比对速度。
+3、copy_image_from_similar.py 该脚本取出每个文件夹下相似对最高的两个图片，分别放到指定目录下。
+
+三 ,unique那个脚本是文件夹的去重，map_file 那个文件夹是文件夹名字的映射关系。
+
+
+
+
+
+
+
+

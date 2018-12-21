@@ -1,0 +1,13 @@
+../test_data/mul_pic/BUYI597/2_personBUYI597_082557_629000_835ffb7f-3d2a-463a-940e-385cb0879b75.jpg	T
+../test_data/mul_pic/BUYI597/1_personBUYI597_082557_629000_bb9da3ce-57e5-4858-8b28-bddd3cb2a467.jpg	T
+../test_data/mul_pic/BUNAN323/2_personBUNAN323_103944_552000_4203fca4-ccf2-412a-a1dd-2dba7eec5c3f.jpg	T
+../test_data/mul_pic/BUNAN323/1_personBUNAN323_103944_552000_f2e56006-7293-4373-96d5-a73b064e96e0.jpg	T
+../test_data/mul_pic/BIANLIQIANG472/1_personBIANLIQIANG472_120018_417000_de223ee8-de1c-41ff-a2cc-1fdf15020110.jpg	T
+../test_data/mul_pic/BIANLIQIANG472/2_personBIANLIQIANG472_120018_417000_0ae1bded-af8d-489b-8213-c4a00c536c05.jpg	T
+../test_data/mul_pic/BIXIAOWEI031/1_personBIXIAOWEI031_203359_687000_b055b6da-a738-4b42-b71b-cedda7b00d59.jpg	T
+../test_data/mul_pic/BIXIAOWEI031/2_personBIXIAOWEI031_203359_687000_c821b2ee-b99e-4766-85fa-ced575838074.jpg	T
+../test_data/mul_pic/mul_pic/BUYI597/2_personBUYI597_082557_629000_835ffb7f-3d2a-463a-940e-385cb0879b75.jpg	T
+../test_data/mul_pic/mul_pic/BUYI597/1_personBUYI597_082557_629000_bb9da3ce-57e5-4858-8b28-bddd3cb2a467.jpg	T
+../test_data/mul_pic/mul_pic/BUNAN323/2_personBUNAN323_103944_552000_4203fca4-ccf2-412a-a1dd-2dba7eec5c3f.jpg	T
+../test_data/mul_pic/mul_pic/BUNAN323/1_personBUNAN323_103944_552000_f2e56006-7293-4373-96d5-a73b064e96e0.jpg	T
+../test_data/mul_pic/mul_pic/BIANLIQIANG472/1_personBIANLIQIANG472_120018_417000_de223ee8-de1c-41ff-a2cc-1fdf15020110.jpg	T

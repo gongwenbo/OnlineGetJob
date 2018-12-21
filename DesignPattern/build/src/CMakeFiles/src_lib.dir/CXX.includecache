@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -44,75 +44,87 @@ math.h
 bits/stdc++.h
 -
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/abs_factory.cpp
+/shared/OnlineGetJob/DesignPattern/src/abs_factory.cpp
 abs_factory.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/src/abs_factory.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/src/abs_factory.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/builder.cpp
+/shared/OnlineGetJob/DesignPattern/src/builder.cpp
 builder.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/builder.h
+/shared/OnlineGetJob/DesignPattern/src/builder.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/builder.h
+/shared/OnlineGetJob/DesignPattern/src/builder.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/combine.cpp
+/shared/OnlineGetJob/DesignPattern/src/comand.cpp
+comand.h
+/shared/OnlineGetJob/DesignPattern/src/comand.h
+
+/shared/OnlineGetJob/DesignPattern/src/comand.h
+iostream
+-
+memory
+-
+string
+-
+
+/shared/OnlineGetJob/DesignPattern/src/combine.cpp
 combine.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/combine.h
+/shared/OnlineGetJob/DesignPattern/src/combine.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/combine.h
+/shared/OnlineGetJob/DesignPattern/src/combine.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/command.cpp
+/shared/OnlineGetJob/DesignPattern/src/command.cpp
 command.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/command.h
+/shared/OnlineGetJob/DesignPattern/src/command.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/command.h
+/shared/OnlineGetJob/DesignPattern/src/command.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/media.cpp
+/shared/OnlineGetJob/DesignPattern/src/media.cpp
 media.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/media.h
+/shared/OnlineGetJob/DesignPattern/src/media.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/media.h
+/shared/OnlineGetJob/DesignPattern/src/media.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/observer.cpp
+/shared/OnlineGetJob/DesignPattern/src/observer.cpp
 observer.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/observer.h
+/shared/OnlineGetJob/DesignPattern/src/observer.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/observer.h
+/shared/OnlineGetJob/DesignPattern/src/observer.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/single.cpp
+/shared/OnlineGetJob/DesignPattern/src/single.cpp
 single.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/single.h
+/shared/OnlineGetJob/DesignPattern/src/single.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/single.h
+/shared/OnlineGetJob/DesignPattern/src/single.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.cpp
+/shared/OnlineGetJob/DesignPattern/src/status_m.cpp
 status_m.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.h
+/shared/OnlineGetJob/DesignPattern/src/status_m.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/status_m.h
+/shared/OnlineGetJob/DesignPattern/src/status_m.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.cpp
+/shared/OnlineGetJob/DesignPattern/src/template.cpp
 template.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.h
+/shared/OnlineGetJob/DesignPattern/src/template.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/template.h
+/shared/OnlineGetJob/DesignPattern/src/template.h
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/src/common.h
+/shared/OnlineGetJob/DesignPattern/src/common.h
 

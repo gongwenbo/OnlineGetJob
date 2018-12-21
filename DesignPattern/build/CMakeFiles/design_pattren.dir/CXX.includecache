@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -84,27 +84,27 @@ common.h
 common.h
 .././src/common.h
 
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/main.cpp
+/shared/OnlineGetJob/DesignPattern/main.cpp
 common.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/common.h
+/shared/OnlineGetJob/DesignPattern/common.h
 single.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/single.h
+/shared/OnlineGetJob/DesignPattern/single.h
 abs_factory.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/abs_factory.h
+/shared/OnlineGetJob/DesignPattern/abs_factory.h
 builder.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/builder.h
+/shared/OnlineGetJob/DesignPattern/builder.h
 combine.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/combine.h
+/shared/OnlineGetJob/DesignPattern/combine.h
 facada.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/facada.h
+/shared/OnlineGetJob/DesignPattern/facada.h
 template.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/template.h
+/shared/OnlineGetJob/DesignPattern/template.h
 command.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/command.h
+/shared/OnlineGetJob/DesignPattern/command.h
 observer.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/observer.h
+/shared/OnlineGetJob/DesignPattern/observer.h
 media.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/media.h
+/shared/OnlineGetJob/DesignPattern/media.h
 status_m.h
-/home/pattern/wenbo/tem/OnlineGetJob/DesignPattern/status_m.h
+/shared/OnlineGetJob/DesignPattern/status_m.h
 
